@@ -60,7 +60,7 @@ function Header() {
             </div> 
         </div>
         </div>
-        <img src="/src/assets/images/avatar.svg"
+        <img src="/src/assets/images/user.png"
         className='w-[40px] rounded-full'/>
     </div>
   )
